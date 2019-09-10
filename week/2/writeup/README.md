@@ -31,15 +31,34 @@ What is the URL to their website? Controls Specialist for Wattsamp Energy
   * US Registrant Phone: +1.2026562837 
   * Registrant Email: ejnorman84@gmail.com
 
-    List any ( >= 1 ) IP addresses associated with the website. For each, detail the location of the server, any history in DNS, and how you discovered this information. I found on securitytrails.com A record::: 157.230.179.99 other::: ns-cloud-d4.googledomains.com ns-cloud-d3.googledomains.com ns-cloud-d2.googledomains.com ns-cloud-d1.googledomains.com
+#### List any ( >= 1 ) IP addresses associated with the website. For each, detail the location of the server, any history in DNS, and how you discovered this information. 
+I found on securitytrails.com 
+* A record::: 
+ * 157.230.179.99 
+* others::: ns-cloud-d4.googledomains.com 
+ * ns-cloud-d3.googledomains.com 
+ * ns-cloud-d2.googledomains.com 
+ * ns-cloud-d1.googledomains.com
+ 
+#### List any hidden files or directories you found on this website. 
+* When I inspected the admin link, I found that the page redirected me to view/admin. 
+* When I just searched the page: http://wattsamp.net/views/ I found the index page with the three links. The css is another visible page. 
+*When I inspected the login page, I saw it referenced ../assets which allowed me to get in that folder and see all the pictures
 
-    List any hidden files or directories you found on this website. When I inspected the admin link, I found that the page redirected me to view/admin. When I just searched the page: http://wattsamp.net/views/ I found the index page with the three links. The css is another visible page. When I inspected the login page, I saw it referenced ../assets which allowed me to get in that folder and see all the pictures
+#### What ports are open on the website? What services are running behind these ports? How did you discover this? 
+Found using nmap: 
+* 22/tcp open ssh 
+* 80/tcp open http
 
-    What ports are open on the website? What services are running behind these ports? How did you discover this? Found using nmap: 22/tcp open ssh 80/tcp open http
+#### Which operating system is running on the server that is hosting the website? How did you discover this? 
+*When I inspected the admin link, I found that the page redirected me to view/admin. 
+*When I just searched the page: http://wattsamp.net/views/ underneath the three links I found: 
+ *Apache/2.4.29 (Ubuntu) Server at wattsamp.net Port 80
 
-    Which operating system is running on the server that is hosting the website? How did you discover this? When I inspected the admin link, I found that the page redirected me to view/admin. When I just searched the page: http://wattsamp.net/views/ underneath the three links I found: Apache/2.4.29 (Ubuntu) Server at wattsamp.net Port 80
-
-    BONUS: Did you find any other flags on your OSINT mission? Note: the standard flag format for bonus flags is *CMSC389R-{}. (Up to 9 pts!) *CMSC389R-{Do_you-N0T_See_this} *CMSC389R-{n0_indexing_pls} *CMSC389R-{html_h@x0r_lulz}
+#### BONUS: Did you find any other flags on your OSINT mission? Note: the standard flag format for bonus flags is *CMSC389R-{}. (Up to 9 pts!) 
+* *CMSC389R-{Do_you-N0T_See_this} 
+* *CMSC389R-{n0_indexing_pls} 
+* *CMSC389R-{html_h@x0r_lulz}
 
 
 ### Part 2 (75 pts)
