@@ -20,16 +20,16 @@ What is the URL to their website? Controls Specialist for Wattsamp Energy
 
 #### List all personal information (including social media accounts, contacts, etc) you can find about ejnorman84. For each, briefly detail how you discovered them. 
 
-*reddit: https://www.reddit.com/user/ejnorman84
-*IG: https://www.instagram.com/ejnorman84/ he likes Texas, especially Texas football
-*LinkedIn: https://www.linkedin.com/in/eric-norman-304550192/ He used to be a junior engineer at BP he used to be an electrical engineering intern at Koch
+* reddit: https://www.reddit.com/user/ejnorman84
+* IG: https://www.instagram.com/ejnorman84/ he likes Texas, especially Texas football
+* LinkedIn: https://www.linkedin.com/in/eric-norman-304550192/ He used to be a junior engineer at BP he used to be an electrical engineering intern at Koch
 
-*Whois command on Kali: 
-  *Registrant Street: 1300 Adabel Dr Registrant City: El Paso 
-  *Registrant State/Province: TX 
-  *Registrant Postal Code: 79835 Registrant Country: 
-  *US Registrant Phone: +1.2026562837 
-  *Registrant Email: ejnorman84@gmail.com
+* Whois command on Kali: 
+  * Registrant Street: 1300 Adabel Dr Registrant City: El Paso 
+  * Registrant State/Province: TX 
+  * Registrant Postal Code: 79835 Registrant Country: 
+  * US Registrant Phone: +1.2026562837 
+  * Registrant Email: ejnorman84@gmail.com
 
     List any ( >= 1 ) IP addresses associated with the website. For each, detail the location of the server, any history in DNS, and how you discovered this information. I found on securitytrails.com A record::: 157.230.179.99 other::: ns-cloud-d4.googledomains.com ns-cloud-d3.googledomains.com ns-cloud-d2.googledomains.com ns-cloud-d1.googledomains.com
 
