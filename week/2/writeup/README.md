@@ -47,8 +47,13 @@ I found on securitytrails.com
 
 #### What ports are open on the website? What services are running behind these ports? How did you discover this? 
 Found using nmap: 
-* 22/tcp open ssh 
-* 80/tcp open http
+* 22/tcp  open     ssh
+* 25/tcp  filtered smtp
+* 80/tcp  open     http
+* 110/tcp filtered pop3
+* 135/tcp filtered msrpc
+* 139/tcp filtered netbios-ssn
+* 445/tcp filtered microsoft-ds
 
 #### Which operating system is running on the server that is hosting the website? How did you discover this? 
 *When I inspected the admin link, I found that the page redirected me to view/admin. 
