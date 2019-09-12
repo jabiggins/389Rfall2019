@@ -24,11 +24,11 @@ wattsamp.net
 #### List all personal information (including social media accounts, contacts, etc) you can find about ejnorman84. For each, briefly detail how you discovered them. 
 
 * reddit: https://www.reddit.com/user/ejnorman84
- * my partner in class found this one, very little information
+  * my partner in class found this one, very little information
 * IG: https://www.instagram.com/ejnorman84/ 
- * He likes Texas, especially Texas football
+  * He likes Texas, especially Texas football
 * LinkedIn: https://www.linkedin.com/in/eric-norman-304550192/ 
- * He used to be a junior engineer at BP he used to be an electrical engineering intern at Koch
+  * He used to be a junior engineer at BP he used to be an electrical engineering intern at Koch
 
 * Whois command on Kali: 
   * Registrant Street: 1300 Adabel Dr Registrant City: El Paso 
