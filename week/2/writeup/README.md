@@ -56,9 +56,9 @@ Found using nmap:
 * 445/tcp filtered microsoft-ds
 
 #### Which operating system is running on the server that is hosting the website? How did you discover this? 
-*When I inspected the admin link, I found that the page redirected me to view/admin. 
-*When I just searched the page: http://wattsamp.net/views/ underneath the three links I found: 
- *Apache/2.4.29 (Ubuntu) Server at wattsamp.net Port 80
+* When I inspected the admin link, I found that the page redirected me to view/admin. 
+* When I just searched the page: http://wattsamp.net/views/ underneath the three links I found: 
+ * Apache/2.4.29 (Ubuntu) Server at wattsamp.net Port 80
 
 #### BONUS: Did you find any other flags on your OSINT mission? Note: the standard flag format for bonus flags is *CMSC389R-{}. (Up to 9 pts!) 
 * *CMSC389R-{Do_you-N0T_See_this} 
