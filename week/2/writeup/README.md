@@ -27,6 +27,7 @@ wattsamp.net
   * my partner in class found this one, very little information
 * IG: https://www.instagram.com/ejnorman84/ 
   * He likes Texas, especially Texas football
+  * Flag found
 * LinkedIn: https://www.linkedin.com/in/eric-norman-304550192/ 
   * He used to be a junior engineer at BP he used to be an electrical engineering intern at Koch
 
@@ -51,6 +52,7 @@ I found on securitytrails.com and confirmed in dns dumpster
 * When I inspected the admin link, I found that the page redirected me to view/admin. 
 * When I just searched the page: http://wattsamp.net/views/ I found the index page with the three links. The css is another visible page. 
 * When I inspected the login page, I saw it referenced ../assets which allowed me to get in that folder and see all the pictures
+* Robots.txt
 
 #### What ports are open on the website? What services are running behind these ports? How did you discover this? 
 Found using nmap: 
@@ -76,7 +78,7 @@ Found using nmap:
 * *CMSC389R-{Do_you-N0T_See_this} 
 * *CMSC389R-{n0_indexing_pls} 
 * *CMSC389R-{html_h@x0r_lulz}
-
+* *CMSC389R-{LOOKING_CLOSELY PAYS}
 
 ### Part 2 (75 pts)
 
