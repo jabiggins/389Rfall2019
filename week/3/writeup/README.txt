@@ -31,5 +31,3 @@ https://security.stackexchange.com/questions/173233/how-do-i-hide-the-os-i-am-us
 https://www.torproject.org/download/
 https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting
 In this security case, by implementing these steps, you may make the task of finding the OS more difficult than it is worth, which in many cases is enough to at least direct the attackers attention elsewhere to a more visible attack, or stop attacks from occurring altogether.
-
->>>>>>> 708001fff1538a1c556beadb2ab4262c7c4c1485
